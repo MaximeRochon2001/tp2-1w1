@@ -18,7 +18,7 @@
   left: 0;
   width: 100%;
   height: 0;
-  background: linear-gradient(rgba(0, 0, 0, 0.6), rgba(173, 148, 23, 0.5)),
+  background: linear-gradient(rgba(0, 0, 0, 0.6), #db780072),
     url("../images/mur-de-biere.jpg");
   background-position: center;
   background-size: cover;
